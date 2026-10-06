@@ -1,0 +1,3 @@
+[
+ {"id":"tame_hog","baseCreature":"Hog","gameClass":"UNVERIFIED","tameItem":"taming_lure","tameTimeSec":5,"tameRange":600,"allowedMachines":["constructor_worker"],"outputBoostPct":25,"worksWhileAssigned":true}
+]

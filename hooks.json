@@ -1,0 +1,5 @@
+[
+ {"id":"use_lure_on_creature","system":"player interaction","needs":"taming_lure","target":"tame_hog","method":"UNVERIFIED"},
+ {"id":"assign_to_slot","system":"machine UI","needs":"constructor_worker","target":"tame_hog","method":"UNVERIFIED"},
+ {"id":"apply_boost","system":"production tick","needs":"constructor_worker","target":"tame_hog","method":"UNVERIFIED"}
+]

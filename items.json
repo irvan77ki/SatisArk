@@ -1,0 +1,3 @@
+[
+ {"id":"taming_lure","displayName":"Taming Lure","gameClass":"UNVERIFIED","recipe":{"Leaves":10,"Biomass":5},"craftedIn":"Craft Bench","unlockedBy":"start","stackSize":10,"consumedOnUse":true}
+]
